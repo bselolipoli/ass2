@@ -1,0 +1,109 @@
+
+.menu{
+width:100%;
+height: 60px;
+margin: 0 auto;
+display: flex;
+top: 0;
+left: 0;
+justify-content: space-around;
+text-align: justify;
+position: fixed;
+background-color: rgb(64, 105, 138);
+}
+.a1{
+font-size: 10mm;
+color:rgb(186, 214, 221);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-decoration: none;
+}
+.ul {
+list-style-type: none;
+}
+.about {
+font-family: 'Raleway', sans-serif;
+font-weight: 1000;
+text-align: center;
+align-items: center;
+width: 100%;
+top:0;
+left:0;
+height: 100vh;
+margin:0;
+background-color: rgb(198, 220, 226);   
+}
+.zx{
+line-height:70mm;
+font-size: 15mm;
+font-family:Monotype Corsiva;
+font-style: inherit;
+color:rgb(53, 103, 133)
+}
+.ty{
+font-family: monospace;
+color:rgb(126, 173, 187);
+font-size: 3mm;
+}
+
+
+.family{
+width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+text-align: center;
+line-height: 1;
+
+}
+.kl {
+font-size: 8mm;
+font-style: italic;
+vertical-align: bottom;
+}
+.a10 {
+font-size:15mm;
+text-align: left;
+text-align: center;
+}
+.er{
+    display: inline-flexbox;
+    border:1px solid #CCC;
+}
+
+
+.education{
+width: 100%;
+height: 100vh;
+background:linear-gradient(to right,#fff,#d3f5f5);  
+}
+.b1 {   
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 18mm;
+}
+.b2{ 
+font-size:2pc;
+line-height: 15mm;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.iimg{
+float:left;
+margin-inline-start: 200mm;
+margin-block-end: 80mm ;
+}
+
+.contact{
+width: 100%;
+height: 100vh;
+}
+.coco{
+font-size: 20mm;
+text-align: center;
+font-family: gabriola;
+color:rgb(25, 48, 70);
+}
+li {
+    list-style-type: none; 
+    display:flex;
+}
+
